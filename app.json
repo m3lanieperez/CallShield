@@ -14,6 +14,11 @@
     "android": {
       "package": "com.callshield.app"
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "c3c045fa-7df8-4729-97f7-1d6747fc5bf6"
+      }
+    }
   }
 }
