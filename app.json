@@ -14,8 +14,6 @@
     "android": {
       "package": "com.callshield.app"
     },
-    "plugins": [
-      "expo-router"
-    ]
+    "plugins": []
   }
 }
