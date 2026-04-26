@@ -1,11 +1,12 @@
 # CallShield 
 ## ☏   Protects users from robot generated calls and common phone scams. 
+
+<img width="6912" height="3456" alt="CallShield protecting people who matter most" src="https://github.com/user-attachments/assets/f9656c75-ace5-4818-b08e-5f2f83dbc9e3" />
+
 CallShield is an Android mobile app that detects scam and robocalls in real time, 
 before any damage is done. When a call comes in, CallShield transcribes the audio 
 using the Gemma 4 API and runs it through a custom-trained API that flags whether 
 the call is risky or safe. 
-
-<img width="6912" height="3456" alt="CallShield protecting people who matter most" src="https://github.com/user-attachments/assets/f9656c75-ace5-4818-b08e-5f2f83dbc9e3" />
 
 
 ## ☏   Why we built it
